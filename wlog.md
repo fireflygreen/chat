@@ -15,3 +15,7 @@ cdn.bootcss.com/jquery/3.1.1/jquery.min.js
  * sandbox deploy,
  * screen play
  * https://github.com/tomasAlabes/raphael-boilerplate
+ * math typing, more tex
+ * more diagram
+ 
+ process with soundcloud
